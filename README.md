@@ -43,9 +43,9 @@ unchanged.
 **SYN1 - the FM exciter**
 
 - A **MODEL** - KICK..ZAP; also selects the FM algorithm.
-- B **RATC** - FM ratio A offset (labelled RATC; stock ratio A slot).
-- C **RATA** - FM ratio B offset (labelled RATA; stock ratio B slot).
-- D **RATB** - FM ratio C offset (labelled RATB; stock ratio C slot).
+- B **RATC** - FM ratio C offset.
+- C **RATA** - FM ratio A offset.
+- D **RATB** - FM ratio B offset.
 - E **TUNE** - +/-24 semitones around the note, for the thump and ring.
 - F **DECAY** - length of the one-shot hit.
 - G **NOISE** - noise/click into the exciter; also FM feedback.
