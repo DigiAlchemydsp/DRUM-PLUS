@@ -10,6 +10,8 @@ they shape FM.
 This repository distributes the compiled `.elemod` release package only. It
 contains no firmware, no `.syx` images and no source code.
 
+![DRUM+ SYN1 models](DRUM-syn1-models.gif)
+
 ## Download
 
 - **DRUM+ 1.0**: `releases/DRUM+-1.0.elemod`
